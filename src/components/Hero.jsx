@@ -16,7 +16,7 @@ const Hero = () => {
         </div>
         <img
           className="w-full max-h-[500px] object-cover"
-          src="https://images.pexels.com/photos/1199959/pexels-photo-1199959.jpeg?auto=compress&cs=tinysrgb&w=800"
+          src="https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
           alt="/"
         />
       </div>
