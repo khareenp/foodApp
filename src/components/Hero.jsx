@@ -7,11 +7,11 @@ const Hero = () => {
         {/* Overlay */}
         <div className="absolute w-full h-full text-gray-200 max-h-[500px] bg-black/40 flex flex-col justify-center">
           <h1 className="px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold">
-            The <span className="text-orange-500">Best</span>
+            The <span className="text-green-500">Best</span>
           </h1>
           <h1 className="px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold">
             {" "}
-            <span className="text-orange-500">Foods</span> Delivered
+            <span className="text-green-500">Foods</span> Delivered
           </h1>
         </div>
         <img
